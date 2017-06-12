@@ -1,6 +1,14 @@
 ---
 title: "Forums now available"
 date: 2009-08-10 09:45:55
+categories: 
+- "חדשות"
+- "כללי"
+- "פורומים"
+tags: 
+- "requests"
+- "support"
+- "פורומים"
 ---
 
 <div style="text-align:left; direction: ltr;">

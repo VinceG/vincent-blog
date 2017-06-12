@@ -1,6 +1,17 @@
 ---
 title: "Zend_Payment - Using MoneyBookers as the Gateway"
 date: 2009-04-28 13:22:42
+categories: 
+- "frameworks"
+- "PHP"
+- "Zend Framework"
+tags: 
+- "Component"
+- "framework"
+- "zend"
+- "zend framework"
+- "Zend_Payment"
+- "Zend_Payment_Gateway_MoneyBookers"
 ---
 
 <p style="text-align: left;">Zend_Payment

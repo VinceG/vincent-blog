@@ -1,6 +1,28 @@
 ---
 title: "Enterprise Applications - Making Them Social"
 date: 2014-02-10 07:47:15
+categories: 
+- "apache"
+- "api"
+- "bootstrap"
+- "frameworks"
+- "jquery"
+- "mysql"
+- "PHP"
+- "php 5.3"
+- "PHP 5.5"
+tags: 
+- "ajax"
+- "application"
+- "bootstrap"
+- "enterprise"
+- "framework"
+- "jquery"
+- "PHP"
+- "rebuild"
+- "redesign"
+- "social"
+- "yii"
 ---
 
 I've been working full time for a company in the real estate industry for nearly two years now. As the senior developer i'd had the opportunity to use and experience with various technologies, services and tools that i haven't used before. I've developed the entire company software, tools they use and the iPhone App that is available for free on the Apple App Store.

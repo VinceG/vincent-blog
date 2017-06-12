@@ -1,6 +1,15 @@
 ---
 title: "Twitter טוענים שהם זורקים את Rails ועוברים ל PHP"
 date: 2009-02-04 09:09:58
+categories: 
+- "ruby on rails"
+- "חדשות"
+tags: 
+- "PHP"
+- "Rails"
+- "RUBY"
+- "ruby on rails"
+- "twitter"
 ---
 
 השמועה הזאת רצה במספר רב של מקורות: אחרי כמעט שנתיים מלאות של בעיות אופטמזציה ופרופילים טוויטר שוקל לנטוש את ה framework אשר הוא משתמש בו כרגע (ruby on rails) ולהתחיל מחדש עם PHP או JAVA (פתרון אחר שהם הציעו זה להמשיך עם Ruby אבל לנטוש את Rails).

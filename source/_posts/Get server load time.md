@@ -1,6 +1,14 @@
 ---
 title: "Get server load time"
 date: 2009-09-24 10:32:34
+categories: 
+tags: 
+- "get load"
+- "get server"
+- "get server load"
+- "load"
+- "server"
+- "server load"
 ---
 
 <div style="text-align: left; direction: ltr;">

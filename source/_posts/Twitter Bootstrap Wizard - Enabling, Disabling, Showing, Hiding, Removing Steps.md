@@ -1,6 +1,15 @@
 ---
 title: "Twitter Bootstrap Wizard - Enabling, Disabling, Showing, Hiding, Removing Steps"
 date: 2013-03-31 23:36:36
+categories: 
+- "bootstrap"
+- "javascript"
+tags: 
+- "bootstrap"
+- "bootstrap wizard"
+- "twitter"
+- "twitter bootstrap wizard"
+- "wizard"
 ---
 
 Latest Twitter bootstrap version adds five new methods. You can now do the following:

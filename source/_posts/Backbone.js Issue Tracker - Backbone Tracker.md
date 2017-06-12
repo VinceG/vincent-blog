@@ -1,6 +1,20 @@
 ---
 title: "Backbone.js Issue Tracker - Backbone Tracker"
 date: 2013-04-06 22:51:05
+categories: 
+- "Backbone.js"
+- "bootstrap"
+- "bug tracker"
+- "javascript"
+tags: 
+- "backbone"
+- "backbone js"
+- "backbone.js"
+- "backbone.js tutorial"
+- "javascript"
+- "js"
+- "PHP"
+- "yii"
 ---
 
 I've started this project to get familiar with Backbone.js and so far it's working. I've recently fixed the bug where the Issues button was not working after creating an issue and added a new feature: Issue Statuses. The installation process is very simple you just need to fork the project import the schema.sql file and update the db settings under protected/config/main.php.

@@ -1,6 +1,19 @@
 ---
 title: "HipHop PHP - לזוז מהר?"
 date: 2010-02-07 12:40:45
+categories: 
+- "PHP"
+- "אופטימיזציה"
+- "חדשות"
+tags: 
+- "C++"
+- "facebook"
+- "HIPHOP"
+- "HIPHOP PHP"
+- "java"
+- "perl"
+- "PHP"
+- "python"
 ---
 
 <h1>אז מה זה HIPHOP PHP?</h1>

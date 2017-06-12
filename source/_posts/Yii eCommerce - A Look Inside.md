@@ -1,6 +1,14 @@
 ---
 title: "Yii eCommerce - A Look Inside"
 date: 2013-02-02 15:34:37
+categories: 
+- "frameworks"
+- "PHP"
+- "php 5.3"
+- "Gallery"
+- "yii"
+- "Yii E-Commerce"
+tags: 
 ---
 
 Here are screenshots taken from the Admin side of the Yii eCommerce Application. All screenshots are self explanatory. Some of the screenshots taken more then once or got deformed due to the Extension used to take those screenshots, just ignore those.

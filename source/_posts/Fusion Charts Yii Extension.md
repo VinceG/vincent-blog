@@ -1,6 +1,13 @@
 ---
 title: "Fusion Charts Yii Extension"
 date: 2010-04-27 22:23:24
+categories: 
+tags: 
+- "charts"
+- "extension"
+- "fusion"
+- "fusion charts"
+- "yii"
 ---
 
 <div style="direction: ltr; text-align: left;">

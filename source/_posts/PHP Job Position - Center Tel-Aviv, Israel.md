@@ -1,6 +1,14 @@
 ---
 title: "PHP Job Position - Center Tel-Aviv, Israel"
 date: 2009-08-13 12:56:03
+categories: 
+- "PHP"
+- "חדשות"
+- "כללי"
+tags: 
+- "job"
+- "jobs"
+- "PHP"
 ---
 
 <div style="text-align:left; direction: ltr;">PHP 5, OOP, ZEND/ Yii FRAMEWORK, EXPERIENCED DEVELOPER  Webtarget Ltd. currently has an opening for a mid-level PHP Developer located in Tel-Aviv.

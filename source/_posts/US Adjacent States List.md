@@ -1,6 +1,28 @@
 ---
 title: "US Adjacent States List"
 date: 2013-01-19 14:17:42
+categories: 
+- "mysql"
+- "PHP"
+tags: 
+- "adjacent"
+- "adjacent states"
+- "csv"
+- "csv adjacent states"
+- "csv file"
+- "csv states"
+- "mysql"
+- "mysql adjacent states"
+- "mysql dump"
+- "mysql staets"
+- "mysql states"
+- "PHP"
+- "php adjacent states"
+- "php list"
+- "php states"
+- "states"
+- "us adjacent states"
+- "us states"
 ---
 
 "Adjacent is an adjective meaning contiguous, adjoining or abutting. It is commonly used in scientific, specifically mathematical contexts."

@@ -1,6 +1,13 @@
 ---
 title: "תוסף ל Yii - שימוש ב Gravatar"
 date: 2010-04-01 08:55:12
+categories: 
+- "frameworks"
+- "yii"
+- "חדשות"
+tags: 
+- "gravatar"
+- "yii"
 ---
 
 

@@ -1,6 +1,19 @@
 ---
 title: "Difference Between InnoDB and MyISAM"
 date: 2009-07-30 11:56:09
+categories: 
+- "mysql"
+- "PHP"
+- "השוואות"
+tags: 
+- "comparison"
+- "difference"
+- "InooDB"
+- "MyISAM"
+- "mysql"
+- "mysql 5"
+- "reference"
+- "SQL"
 ---
 
 <p style="text-align: left; direction:ltr;">After reading <a href="http://tapos.wordpress.com/2008/01/10/difference-between-innodb-and-myisam/" target="_blank">Tapos Blog post</a> about the differences between InnoDB and MyISAM database engines i found out that InnoDB does not only support row level locking but more then that, By doing a small fast research i came to those main differences:</p>

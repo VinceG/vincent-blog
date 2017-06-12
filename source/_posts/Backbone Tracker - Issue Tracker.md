@@ -1,6 +1,27 @@
 ---
 title: "Backbone Tracker - Issue Tracker"
 date: 2013-03-17 23:10:11
+categories: 
+- "Backbone.js"
+- "bootstrap"
+- "javascript"
+- "jquery"
+tags: 
+- "backbone"
+- "backbone.js"
+- "bootstrap"
+- "bug"
+- "bug tracker"
+- "bugs"
+- "issue"
+- "issue tracker"
+- "issues"
+- "javascript"
+- "jquery"
+- "js"
+- "tracker"
+- "underscore"
+- "underscore.js"
 ---
 
 <h1>Backbone.js Issue Tracker</h1>

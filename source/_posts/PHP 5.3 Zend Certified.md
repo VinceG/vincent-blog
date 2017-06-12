@@ -1,6 +1,24 @@
 ---
 title: "PHP 5.3 Zend Certified"
 date: 2010-10-15 20:07:00
+categories: 
+- "PHP"
+- "php 5.3"
+- "zend"
+- "חדשות"
+- "כללי"
+- "פורומים"
+tags: 
+- "certification"
+- "certified"
+- "PHP"
+- "PHP 5"
+- "php 5.3"
+- "php5"
+- "php5.3"
+- "zend"
+- "zend certification"
+- "zend certified"
 ---
 
 Just wanted to let everyone know that i took the new <a href="http://www.zend.com/en/services/certification/" target="_blank">PHP 5.3 Zend Certification</a> and passed it. I did not study as much as i did for the two previous ones but i did read about the new changes in PHP 5.3 and blogged about them as well as you can probably see in my recent blog posts.

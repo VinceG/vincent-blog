@@ -1,6 +1,21 @@
 ---
 title: "MongoDB - חלק 2 - התקנת התוסף עבור PHP"
 date: 2010-09-28 12:11:00
+categories: 
+- "linux"
+- "mongo"
+- "mongodb"
+- "PHP"
+- "כללי"
+tags: 
+- "install"
+- "install mongo"
+- "install mongodb"
+- "mongod"
+- "mongodb"
+- "PHP"
+- "windows mongo"
+- "windows mongodb"
 ---
 
 <p style="text-align: right;">לאחר התקנת שרת ה MongoDB על השרת הביתי יש צורך בלהתקין את התוסף עבור PHP כדי להריץ פקודות לשרת בעזרת PHP. בכדי להתקין את התוסף תוכלו להשתמש באחת מהדרכים הבאות בהתאם למערכת ההפעלה בה רץ שרת ה MongoDB.

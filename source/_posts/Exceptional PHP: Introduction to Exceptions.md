@@ -1,6 +1,11 @@
 ---
 title: "Exceptional PHP: Introduction to Exceptions"
 date: 2009-10-29 13:27:08
+categories: 
+tags: 
+- "exceptional"
+- "exceptions"
+- "PHP"
 ---
 
 <div style="text-align:left; direction: ltr;">

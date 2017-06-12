@@ -1,6 +1,22 @@
 ---
 title: "PHP Bug Tracker Project"
 date: 2010-10-18 21:47:12
+categories: 
+- "PHP"
+- "yii"
+- "חדשות"
+- "כללי"
+tags: 
+- "bug tracker"
+- "php bug tracker"
+- "php tracker"
+- "tracker"
+- "באג טרקר"
+- "ניהול באגים"
+- "ניהול בעיות"
+- "ניהול פרוייקטים"
+- "פתרון באגים"
+- "פתרון בעיות"
 ---
 
 לפני כמה ימים ניסיתי להתקין את <a href="http://trac.edgewall.org/" target="_blank">Trac</a>, למי שלא מכיר זוהי מערכת לניהול ומעקב אחר באגים (בעיות) בפרוייקט מסויים שעבדתי עליו, רציתי משהו שאני כבר אשתמש עבור כל הפרוייקטים, חיפוש בגוגל העלה כמה מועמדים אך <a href="http://trac.edgewall.org/" target="_blank">Trac</a>נמצא כאחד מהפופולרים ביותר.

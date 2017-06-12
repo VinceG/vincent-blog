@@ -1,6 +1,17 @@
 ---
 title: "Bootstrap 2.x eCommerce Theme"
 date: 2014-08-08 17:45:09
+categories: 
+tags: 
+- "bootstrap"
+- "commerce"
+- "e-commerce"
+- "ecommerce"
+- "free ecommerce"
+- "free template"
+- "free theme"
+- "open source"
+- "theme"
 ---
 
 <h1 style="font-weight: bold; color: #333333;">Bootstrap E-Commerce Theme</h1>

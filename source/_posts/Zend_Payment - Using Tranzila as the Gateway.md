@@ -1,6 +1,18 @@
 ---
 title: "Zend_Payment - Using Tranzila as the Gateway"
 date: 2009-04-28 12:21:29
+categories: 
+- "frameworks"
+- "PHP"
+- "Zend Framework"
+- "כללי"
+tags: 
+- "payment"
+- "tranzila"
+- "zend"
+- "zend component"
+- "Zend_Payment"
+- "Zend_Payment_Gateway_Tranzila"
 ---
 
 <p style="text-align: left;">Zend_Payment</p>

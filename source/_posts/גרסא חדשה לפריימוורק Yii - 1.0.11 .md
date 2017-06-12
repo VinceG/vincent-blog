@@ -1,6 +1,12 @@
 ---
 title: "גרסא חדשה לפריימוורק Yii - 1.0.11 "
 date: 2009-12-17 13:02:25
+categories: 
+- "frameworks"
+- "PHP"
+- "yii"
+- "חדשות"
+tags: 
 ---
 
 <div style="direction: ltr; text-align: left;">

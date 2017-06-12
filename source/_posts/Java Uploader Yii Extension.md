@@ -1,6 +1,13 @@
 ---
 title: "Java Uploader Yii Extension"
 date: 2010-04-27 22:31:06
+categories: 
+tags: 
+- "extension"
+- "java uploader"
+- "jumploader"
+- "yii"
+- "yii extension"
 ---
 
 <div style='direction:ltr;text-align:left;'>

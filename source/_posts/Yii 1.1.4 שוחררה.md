@@ -1,6 +1,19 @@
 ---
 title: "Yii 1.1.4 שוחררה"
 date: 2010-09-06 11:56:12
+categories: 
+- "frameworks"
+- "PHP"
+- "yii"
+- "חדשות"
+tags: 
+- "application"
+- "framework"
+- "PHP"
+- "php framework"
+- "web 2.0"
+- "yii"
+- "yii framework"
 ---
 
 <div id="toprint">

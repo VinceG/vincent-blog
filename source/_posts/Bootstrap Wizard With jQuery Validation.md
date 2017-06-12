@@ -1,6 +1,21 @@
 ---
 title: "Bootstrap Wizard With jQuery Validation"
 date: 2013-04-01 00:32:31
+categories: 
+- "bootstrap"
+- "javascript"
+- "jquery"
+tags: 
+- "bootstrap"
+- "bootstrap wizard"
+- "jquery"
+- "jquery validation"
+- "twitter"
+- "twitter bootstrap"
+- "twitter bootstrap wizard"
+- "twitter wizard"
+- "validation"
+- "wizard"
 ---
 
 Twitter Bootstrap Wizard supports jQuery Validation plugin by default, an example was added to demonstrate a simple case when a form needs to be validated in two different steps.

@@ -1,6 +1,15 @@
 ---
 title: "(IM) Custom Navigation 1.0"
 date: 2009-08-05 11:23:04
+categories: 
+- "PHP"
+- "פורומים"
+tags: 
+- "custom navigation"
+- "invision power"
+- "ipb"
+- "modifications"
+- "mods"
 ---
 
 <div style="text-align:left;direction:ltr;">This modificaiton will allow you to add, edit and delete navigation menus through the ACP that will display in the forums primary navigation menu.</div>

@@ -1,6 +1,18 @@
 ---
 title: "Apache rewrite rules - Http to Https - Force SSL"
 date: 2009-09-24 15:59:20
+categories: 
+- "apache"
+- "PHP"
+- "אופטימיזציה"
+tags: 
+- "apache"
+- "force"
+- "http"
+- "https"
+- "rewrite"
+- "rules"
+- "ssl"
 ---
 
 <div style="text-align:left; direction: ltr;">

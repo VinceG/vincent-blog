@@ -1,6 +1,19 @@
 ---
 title: "Support Ticket Management"
 date: 2014-07-03 22:11:42
+categories: 
+- "bootstrap"
+- "PHP"
+- "support"
+tags: 
+- "bootstrap"
+- "manager"
+- "PHP"
+- "support"
+- "support ticket"
+- "support tickets"
+- "ticket"
+- "tickets"
 ---
 
 This past week i've been working on the redesign and performance updates to our company's Support Manager section of our application. The update not only introduced new workflow, design and features, but it also performs a lot better than the previous one.

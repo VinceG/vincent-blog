@@ -1,6 +1,16 @@
 ---
 title: "MySQL Data Types Quick Reference Table: MySQL Version 5.0"
 date: 2009-07-30 12:01:05
+categories: 
+- "mysql"
+- "כללי"
+tags: 
+- "data"
+- "data types"
+- "mysql"
+- "mysql 5"
+- "reference"
+- "type"
 ---
 
 <div style="text-align: left; direction: ltr;">

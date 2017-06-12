@@ -1,6 +1,26 @@
 ---
 title: "US Zip Codes List - Updated 42,000 Zip Codes"
 date: 2013-01-19 15:08:49
+categories: 
+- "mysql"
+- "PHP"
+tags: 
+- "state zip"
+- "state zip code"
+- "states"
+- "us"
+- "us state zip"
+- "us state zip code"
+- "us states"
+- "us zip"
+- "us zip code"
+- "us zip code list"
+- "us zip codes"
+- "us zip codes list"
+- "zip"
+- "zip code"
+- "zip codes"
+- "zips"
 ---
 
 Updated list of US Zip Codes, State, City &amp; County

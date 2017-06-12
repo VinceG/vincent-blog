@@ -1,6 +1,15 @@
 ---
 title: "כמה עובדות בנוגע לפירצות האבטחה של PHPList והפריצה אל phpbb.com"
 date: 2009-02-08 15:33:59
+categories: 
+- "PHP"
+- "אבטחת מידע"
+- "חדשות"
+tags: 
+- "phpbb"
+- "phplist"
+- "אבטחה"
+- "פריצה"
 ---
 
 לא מזמן אתר <a href="http://www.phpbb.com" target="_blank">phpbb.com</a> נפרץ על ידי האקר שמצא פירצה במערכת ה <a href="http://www.phplist.com" target="_blank">PHPList</a> שהאתר השתמש בו. ההאקר ביצע דריסה של משתנה גלובאלי מסויים שאפשר הרצה של <a href="http://www.milw0rm.com/exploits/7778" target="_blank">אקספלוייט</a> מסויים במערכת. פרטים מלאים בנוגע לפירצה ניתן למצוא <a href="http://hackedphpbb.blogspot.com/2009/01/place-holder.html" target="_blank">בקישור הבא</a> על ידי משהו שטוען שהוא זה שפרץ לאתר. מההסבר של אותו האקר ניתן להבין שההתקנה של <a href="http://www.php.net" target="_blank">PHP</a> שהייתה על השרתים של <a href="http://www.phpbb.com" target="_blank">phpbb.com</a> הייתה פחות או יותר התקנת ברירת המחדל של <a href="http://www.php.net" target="_blank">PHP</a> ללא שום תוספות אבטחה כמעט, אבל נדבר על זה בהמשך.

@@ -1,6 +1,12 @@
 ---
 title: "Rain TPL Yii View Renderer"
 date: 2012-06-16 15:40:40
+categories: 
+- "frameworks"
+- "PHP"
+- "php 5.3"
+- "yii"
+tags: 
 ---
 
 <h1>Rain TPL Yii View Renderer</h1>

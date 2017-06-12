@@ -1,6 +1,12 @@
 ---
 title: "IPB SDK V3 FOR IPB 3"
 date: 2009-08-25 09:28:03
+categories: 
+- "PHP"
+- "פורומים"
+tags: 
+- "ipb"
+- "sdk"
 ---
 
 <div style="text-align:left; direction:ltr;">

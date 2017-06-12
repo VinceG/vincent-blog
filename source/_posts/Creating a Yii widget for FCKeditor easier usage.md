@@ -1,6 +1,17 @@
 ---
 title: "Creating a Yii widget for FCKeditor easier usage"
 date: 2009-12-17 13:12:39
+categories: 
+- "fckeditor"
+- "frameworks"
+- "yii"
+tags: 
+- "fckeditor"
+- "framework"
+- "PHP"
+- "tutorial"
+- "widget"
+- "yii"
 ---
 
 <div style="direction: ltr; text-align: left;">

@@ -1,6 +1,21 @@
 ---
 title: "MongoDB - חלק 3 - התחברות למסד נתונים הרצת שאילתות על גבי מסד הנתונים"
 date: 2010-09-28 12:11:51
+categories: 
+- "linux"
+- "mongo"
+- "mongodb"
+- "PHP"
+- "כללי"
+tags: 
+- "install"
+- "install mongo"
+- "install mongodb"
+- "mongod"
+- "mongodb"
+- "PHP"
+- "windows mongo"
+- "windows mongodb"
 ---
 
 בשלב זה יש לוודא שהחלק הראשון והשני בוצעו כהלכה ושרת ה MongoDB פעיל ורץ, בנוסף לתוסף ה PHP שהותקן ונבדק כפעיל גם הוא. כעת כל מה שנותר לעשות הוא בעצם להתחיל לעבוד עם השרת החדש, ומסד הנתונים החדש.

@@ -1,6 +1,17 @@
 ---
 title: "Application Installer Wizard Class"
 date: 2009-06-24 13:41:18
+categories: 
+- "mysql"
+- "PHP"
+tags: 
+- "application"
+- "class"
+- "installer"
+- "PHP"
+- "php application installer"
+- "php class"
+- "php installer"
 ---
 
 <div style="text-align: left; direction: ltr;">Many people were asking about a simple class installer wizard that will do just the basic application installation in PHP, As a developer you would want to make things as simple as possible to the end user, So having an installer that will do all the hard work is something that i find useful and even mandatory.

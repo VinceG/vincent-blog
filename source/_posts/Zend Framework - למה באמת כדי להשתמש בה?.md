@@ -1,6 +1,13 @@
 ---
 title: "Zend Framework - למה באמת כדי להשתמש בה?"
 date: 2009-02-19 12:06:09
+categories: 
+- "frameworks"
+- "PHP"
+tags: 
+- "framework"
+- "zend"
+- "zend framework"
 ---
 
 בדרך כלל אני לא בעד כל ה frameworks למיניהם. במיוחד אחרי כל הקטע של "הדימוי" שלהם לכיוון והדרך בה <a title="ruby on rails framework" onclick="javascript:urchinTracker ('/outgoing/www.rubyonrails.org/');" href="http://www.rubyonrails.org/">Ruby on Rails</a> כתוב, כל PHP Framework כיום כותב בעצמו איזה <a title="ruby on rails framework active record implementation" onclick="javascript:urchinTracker ('/outgoing/wiki.rubyonrails.org/rails/pages/ActiveRecord');" href="http://wiki.rubyonrails.org/rails/pages/ActiveRecord">ActiveRecord</a> או <a title="what is scaffolding" onclick="javascript:urchinTracker ('/outgoing/en.wikipedia.org/wiki/Scaffold_(programming)');" href="http://en.wikipedia.org/wiki/Scaffold_%28programming%29">scaffolding</a> ודברים אחרים דומים שקיימים ב Rails ובשפות אחרות (למרות ש Rails היא בעצמה Framework ל Ruby), זה בהחלט כבר יוצא מפרופורציות שכל אחד מנסה "לפתח" את ה framework שלו וטוען שהיא עושה דברים שאחרים לא עושים, והיא הטובה ביותר והמהירה ביותר, שבדרך כלל לא נכון.

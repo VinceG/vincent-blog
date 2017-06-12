@@ -1,6 +1,22 @@
 ---
 title: "PHP 5.5 Certification Exam"
 date: 2013-12-30 18:39:22
+categories: 
+- "PHP"
+- "PHP 5.5"
+- "zend"
+tags: 
+- "certification"
+- "exam"
+- "PHP"
+- "php 5.5"
+- "php exam"
+- "php topics"
+- "php zend certification"
+- "php zend certification exam"
+- "zend"
+- "zend certf"
+- "zend certificaiton"
 ---
 
 Zend announced the release of the PHP 5.5 Certification exam. This brings the PHP 5.3 exam to an end of life by December 31st. I am planning on taking the exam in the next couple of months. I'll spend these couple of months reading and studying all the new features and changes since 5.3 . Here is the list of topics listed in the <a href="http://www.zend.com/services/certification/php-certification/" target="_blank">Zend Certification Website</a>:

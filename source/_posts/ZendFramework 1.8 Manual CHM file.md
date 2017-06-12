@@ -1,6 +1,20 @@
 ---
 title: "ZendFramework 1.8 Manual CHM file"
 date: 2009-05-06 12:24:27
+categories: 
+- "frameworks"
+- "Zend Framework"
+- "חדשות"
+tags: 
+- "1.8"
+- "chm"
+- "en"
+- "framework"
+- "manual"
+- "PDF"
+- "PHP"
+- "zend"
+- "zend framework"
 ---
 
 <div style="direction:ltr;text-align:left;">If your just like me that rather code with the help of a manual, But don't won't to dig trough HTML files and want everything sorted in the right way and have the ability to search the entire manual without the need to go to the online manual then this chm file will help you as it does for me.I have taken the time to complie a CHM file that has everything the manual has including the ZendX manual HTML pages.

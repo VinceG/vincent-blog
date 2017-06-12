@@ -1,6 +1,27 @@
 ---
 title: "Pure Inspection - Home Inspection Cloud Management Tool"
 date: 2012-12-28 01:41:51
+categories: 
+- "apache"
+- "jquery"
+- "mysql"
+- "PHP"
+tags: 
+- "cloud"
+- "home"
+- "home inspection"
+- "home inspection software"
+- "inspection"
+- "inspector"
+- "inspectors"
+- "mobile"
+- "mobile inspection"
+- "mold"
+- "mold inspection"
+- "mold inspection software"
+- "online"
+- "online inspection"
+- "software"
 ---
 
 Pure Inspection Managment - Simple and Efficent cloud based Home Inspection Manager. With this tool you'll be able to Generate, Process, Send, Receive, View, Download Reports from anywhere using any kind of Operating System, Browser and Mobile Device.

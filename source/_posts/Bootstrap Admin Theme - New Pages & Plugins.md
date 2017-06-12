@@ -1,6 +1,15 @@
 ---
 title: "Bootstrap Admin Theme - New Pages & Plugins"
 date: 2013-09-02 01:07:15
+categories: 
+- "bootstrap"
+- "PHP"
+tags: 
+- "admin"
+- "bootstrap"
+- "free"
+- "premium"
+- "theme"
 ---
 
 Bootstrap Admin Theme just got even better with two new pages added:

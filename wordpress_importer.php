@@ -53,8 +53,9 @@ foreach($items as $item) {
 
 function info($item) {
     global $sourcePath, $draftsPath, $postsPath;
-    $cats = [];
-    $tags = [];
+
+    $cats = $item['category'];
+    $tags = $item['tag'];
     $isPost = $item['post_type'] == 'post';
     $isPage = $item['post_type'] == 'page';
     $published = $postsPath . $item['title'] . '.md';
@@ -125,6 +126,9 @@ function create($fullPath, $info) {
 
     $contents = $isPage ? templatePage() : templatePost();
 
+    $_categories = getCategories($info);
+    $_tags = getTags($info);
+
     $tempContent = str_replace(
         [
             "[sourcecode language='php']",
@@ -142,15 +146,43 @@ function create($fullPath, $info) {
                 '{title}',
                 '{date}',
                 '{content}',
+                '{cats}',
+                '{tags}',
             ],
             [
                 $title,
                 $date,
                 $tempContent,
+                $_categories,
+                $_tags,
             ],
             $contents);
 
     file_put_contents($fullPath, $contents);
+}
+
+function getCategories($info) {
+    $rows = [];
+
+    if(isset($info['categories']) && is_array($info['categories'])) {
+        foreach($info['categories'] as $category) {
+            $rows[] = sprintf('- "%s"', str_replace('"', '', $category));
+        }
+    }
+
+    return count($rows) ? ("\n" . implode("\n", $rows)) : '';
+}
+
+function getTags($info) {
+    $rows = [];
+
+    if(isset($info['tags']) && is_array($info['tags'])) {
+        foreach($info['tags'] as $tag) {
+            $rows[] = sprintf('- "%s"', $tag);
+        }
+    }
+
+    return count($rows) ? ("\n" . implode("\n", $rows)) : '';
 }
 
 function templatePage() {
@@ -170,6 +202,8 @@ function templatePost() {
 ---
 title: "{title}"
 date: {date}
+categories: {cats}
+tags: {tags}
 ---
 
 {content}

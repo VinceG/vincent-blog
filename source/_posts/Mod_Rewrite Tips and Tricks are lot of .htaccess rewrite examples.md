@@ -1,6 +1,18 @@
 ---
 title: "Mod_Rewrite Tips and Tricks are lot of .htaccess rewrite examples"
 date: 2009-08-05 12:19:29
+categories: 
+- "apache"
+- "אופטימיזציה"
+- "כללי"
+tags: 
+- ".htacces"
+- "apache"
+- "htaccess"
+- "mod rewrite"
+- "mod_rewrite"
+- "tips"
+- "tricks"
 ---
 
 <div style="text-align:left;direction:ltr;">

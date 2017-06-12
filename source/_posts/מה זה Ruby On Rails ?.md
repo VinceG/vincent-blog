@@ -1,6 +1,14 @@
 ---
 title: "מה זה Ruby On Rails ?"
 date: 2009-02-04 09:31:07
+categories: 
+tags: 
+- "ror"
+- "RUBY"
+- "ruby on rails"
+- "פיתוח"
+- "רובי"
+- "תכנות"
 ---
 
 הרבה שואלים מה זה Ruby On Rails (בקיצור RoR) איך משתמשים בזה והאם זה קיים גם אצלנו בשרת?

@@ -1,6 +1,16 @@
 ---
 title: "Yii Framework Twitter API Extension"
 date: 2010-04-01 21:13:26
+categories: 
+- "frameworks"
+- "yii"
+- "חדשות"
+tags: 
+- "api"
+- "framework"
+- "PHP"
+- "twitter"
+- "yii"
 ---
 
 <div style='text-align: left; direction: ltr;'>

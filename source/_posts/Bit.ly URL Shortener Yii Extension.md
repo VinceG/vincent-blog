@@ -1,6 +1,14 @@
 ---
 title: "Bit.ly URL Shortener Yii Extension"
 date: 2010-04-27 22:21:26
+categories: 
+tags: 
+- "bit.ly"
+- "extension"
+- "short"
+- "url"
+- "url shorten"
+- "yii"
 ---
 
 <div style="direction: ltr; text-align: left;">

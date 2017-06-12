@@ -1,6 +1,18 @@
 ---
 title: "PHP Developer job position"
 date: 2009-07-30 19:55:02
+categories: 
+- "mysql"
+- "PHP"
+- "חדשות"
+- "כללי"
+tags: 
+- "developer"
+- "job"
+- "job position"
+- "PHP"
+- "php job"
+- "position"
 ---
 
 <div style="text-align:left; direction:ltr;">

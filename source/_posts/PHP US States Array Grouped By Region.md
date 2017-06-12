@@ -1,6 +1,21 @@
 ---
 title: "PHP US States Array Grouped By Region"
 date: 2012-06-14 23:35:11
+categories: 
+- "frameworks"
+- "PHP"
+- "php 5.3"
+tags: 
+- "php array"
+- "php states"
+- "php us states"
+- "regions"
+- "regions array"
+- "states"
+- "states array"
+- "us array"
+- "us regions"
+- "us states"
 ---
 
 I needed a PHP array of the US states grouped by region, Since i did not find something like that i just made one real quick and thought i should share it in case someone else will need to do the same.

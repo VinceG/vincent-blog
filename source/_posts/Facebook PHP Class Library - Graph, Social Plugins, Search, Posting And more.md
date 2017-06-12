@@ -1,6 +1,31 @@
 ---
 title: "Facebook PHP Class Library - Graph, Social Plugins, Search, Posting And more"
 date: 2010-05-05 13:46:16
+categories: 
+- "facebook"
+- "PHP"
+- "אינטגרציה"
+- "חדשות"
+- "כללי"
+tags: 
+- "api"
+- "class"
+- "facebook"
+- "facebook api"
+- "facebook class"
+- "facebook graph"
+- "facebook graph api"
+- "facebook php sdk"
+- "facebook sdk"
+- "facebook social plugins"
+- "graph"
+- "library"
+- "PHP"
+- "php class"
+- "php facebook class"
+- "plugins"
+- "social"
+- "social plugins"
 ---
 
 <div style="direction: ltr; text-align: left;">

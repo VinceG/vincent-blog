@@ -1,6 +1,13 @@
 ---
 title: "Bootstrap Admin Theme 3.x – Available Free @ Github"
 date: 2014-01-05 00:18:06
+categories: 
+tags: 
+- "admin"
+- "bootstrap"
+- "bootstrap 3"
+- "bootstrap admin theme"
+- "theme"
 ---
 
 A generic admin theme built with Bootstrap 3.x free for both personal and commercial use.

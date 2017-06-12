@@ -1,6 +1,10 @@
 ---
 title: "Yii: Add missing translations to the DB automatically"
 date: 2010-05-03 09:15:16
+categories: 
+- "PHP"
+- "yii"
+tags: 
 ---
 
 <div style="text-align: left; direction: ltr;">Basically this was not designed to be an extension but rather a tool for development stage where you do not want to manually add every single language string into the database messages table for each language you need the application to be translated to.</div>

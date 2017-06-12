@@ -1,6 +1,17 @@
 ---
 title: "העלאת קבצים בעזרת Java , סטייל facebook תוסף עבור Yii"
 date: 2010-04-27 22:37:44
+categories: 
+tags: 
+- "extension"
+- "facebook"
+- "facebook file uploader"
+- "facebook uploader"
+- "yii"
+- "העלאה"
+- "העלאת קבצים"
+- "פייסבוק"
+- "קבצים"
 ---
 
 <div style='direction:rtl;text-align:right;'>

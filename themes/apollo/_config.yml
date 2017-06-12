@@ -1,10 +1,12 @@
 menu:
+    About: /about/
+    Contact: /contact/
     Archive: /archives/
     GitHub: https://github.com/vinceg
-    Rss: /atom.xml
+    Rss: /rss.xml
 
-favicon: /favicon.png
-logo: /favicon.png
+favicon:
+logo:
 
 # Comment
 # e.g disqus: seansun

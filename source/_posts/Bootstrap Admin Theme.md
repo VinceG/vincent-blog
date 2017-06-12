@@ -1,6 +1,18 @@
 ---
 title: "Bootstrap Admin Theme"
 date: 2013-02-03 17:46:26
+categories: 
+tags: 
+- "admin"
+- "admin template"
+- "admin theme"
+- "bootstrap"
+- "bootstrap admin"
+- "bootstrap admin template"
+- "bootstrap admin theme"
+- "bootstrap theme"
+- "template"
+- "theme"
 ---
 
 A generic admin theme built with Bootstrap free for both personal and commercial use.

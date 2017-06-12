@@ -1,6 +1,15 @@
 ---
 title: "Yii - PHP Coding Standards (draft)"
 date: 2009-07-13 22:49:23
+categories: 
+- "frameworks"
+- "PHP"
+- "yii"
+tags: 
+- "coding standards"
+- "framework"
+- "PHP"
+- "yii"
 ---
 
 <div style="direction: ltr; text-align: left;">

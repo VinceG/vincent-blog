@@ -1,6 +1,14 @@
 ---
 title: "PHP Design Patterns - השימוש ב Singleton"
 date: 2009-02-11 23:57:23
+categories: 
+tags: 
+- "design"
+- "design patterns"
+- "MVC"
+- "patterns"
+- "PHP"
+- "singleton"
 ---
 
 PHP 5 הציגו כמה תוספות חדשות ושימושיות לתכנות מונחה עצמים, שנקרא באנגלית מקוצרת OOP (קיצור של Object Oriented Programming). אחד התוספות שנוספו ממשפחת ה Design Patterns הוא ה Singleton Pattern , אני לא יודע בידיוק איך להגדיר את זה בעברית אבל בו נקרא לזה "פריט יחיד" לצורך ההסבר הזה. השימוש בו הוא די פשוט, רצוי שיהיה ידע בסיסי ב PHP וב PHP 5 בפרט (כל ה Access Modifiers - public/protected/private ושימוש בערכים סטטיים). אז החלק הראשון הוא פשוט, דוגמא למה שהיינו עושים עד היום אם רצינו ליצור אובייקט פעמיים:

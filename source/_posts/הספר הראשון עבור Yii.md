@@ -1,6 +1,16 @@
 ---
 title: "הספר הראשון עבור Yii"
 date: 2010-08-16 08:03:21
+categories: 
+- "frameworks"
+- "PHP"
+- "yii"
+tags: 
+- "book"
+- "framework"
+- "PHP"
+- "yii"
+- "yii book"
 ---
 
 <div id="toprint">

@@ -1,6 +1,27 @@
 ---
 title: "Free Bootstrap Admin Theme - Updated"
 date: 2013-02-10 16:02:54
+categories: 
+tags: 
+- "admin"
+- "admin template"
+- "admin theme"
+- "bootstrap"
+- "bootstrap admin"
+- "bootstrap admin theme"
+- "bootstrap theme"
+- "free"
+- "free admin"
+- "free admin template"
+- "free admin theme"
+- "free bootstrap theme"
+- "free template"
+- "free theem"
+- "free theme"
+- "open source"
+- "theme"
+- "twitter"
+- "twitter bootstrap"
 ---
 
 Bootstrap admin theme was updated today and now includes the following pages:

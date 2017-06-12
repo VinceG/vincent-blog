@@ -1,6 +1,8 @@
 ---
 title: "Difference Between isset empty is null"
 date: 2009-11-10 13:38:30
+categories: 
+tags: 
 ---
 
 <div style="text-align:left; direction: ltr;">

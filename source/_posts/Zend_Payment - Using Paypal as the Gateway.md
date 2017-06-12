@@ -1,6 +1,21 @@
 ---
 title: "Zend_Payment - Using Paypal as the Gateway"
 date: 2009-04-28 14:03:40
+categories: 
+- "frameworks"
+- "PHP"
+- "Zend Framework"
+tags: 
+- "Component"
+- "frame"
+- "framework"
+- "payment"
+- "Paypal"
+- "Paypal IPN"
+- "Paypal PDT"
+- "zend framework"
+- "Zend_Payment"
+- "Zend_Payment_Gateway_Paypal"
 ---
 
 <div style='direction: ltr; text-align:left;'>

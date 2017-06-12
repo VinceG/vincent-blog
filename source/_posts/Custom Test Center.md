@@ -1,6 +1,22 @@
 ---
 title: "Custom Test Center"
 date: 2009-08-06 17:05:43
+categories: 
+- "PHP"
+- "חדשות"
+- "כללי"
+tags: 
+- "demo"
+- "exam"
+- "example"
+- "learn"
+- "PHP"
+- "questions"
+- "score"
+- "study"
+- "take exam"
+- "test"
+- "tutorial"
 ---
 
 <div style="text-align: left; direction: ltr;">

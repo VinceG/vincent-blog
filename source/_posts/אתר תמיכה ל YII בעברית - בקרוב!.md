@@ -1,6 +1,16 @@
 ---
 title: "אתר תמיכה ל YII בעברית - בקרוב!"
 date: 2010-03-11 10:07:27
+categories: 
+- "PHP"
+- "yii"
+- "חדשות"
+tags: 
+- "hebrew"
+- "yii"
+- "YII בעברית"
+- "yiiframework hebrew"
+- "תמיכה בעברית"
 ---
 
 לאחרונה אני עובד על כמה פרוייקטים במקביל, אחד מהם הוא האתר <a href="http://yiiframework.co.il" target="_blank">yiiframework.co.il</a> אשר יהווה תמיכה בעברית ותרגום של המדריכים לשימוש ב <a href="http://yiiframework.com" target="_blank">YII</a>.

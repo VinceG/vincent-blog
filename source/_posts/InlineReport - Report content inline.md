@@ -1,6 +1,19 @@
 ---
 title: "InlineReport - Report content inline"
 date: 2010-05-22 17:59:41
+categories: 
+- "PHP"
+- "חדשות"
+- "כללי"
+tags: 
+- "bug"
+- "inline"
+- "inline report"
+- "jquery"
+- "jquery plugin"
+- "plugin"
+- "report"
+- "type"
 ---
 
 <div style="text-align: left; direction: ltr;">InlineReport is a small JQuery plugin written to allow website users and visitors to report content they see as a bug, Inappropriate, Spam, or event report typos they see in blog posts, Articles, Tutorials, News and any other content.

@@ -1,6 +1,14 @@
 ---
 title: "Speed up a web site by enabling Apache file compression"
 date: 2009-07-28 09:49:59
+categories: 
+tags: 
+- "apache"
+- "compress"
+- "css"
+- "files"
+- "htaccess"
+- "javascript"
 ---
 
 <p style="direction: ltr; text-align: left;"></p>

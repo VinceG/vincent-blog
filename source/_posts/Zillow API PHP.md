@@ -1,6 +1,20 @@
 ---
 title: "Zillow API PHP"
 date: 2014-09-16 23:43:34
+categories: 
+- "PHP"
+- "PHP 5.5"
+tags: 
+- "class"
+- "library"
+- "PHP"
+- "php zillow"
+- "wrapper"
+- "zillow"
+- "zillow php"
+- "zillow php class"
+- "zillow php library"
+- "zillow php wrapper"
 ---
 
 <div id="readme" class="blob instapaper_body"><article class="markdown-body entry-content">

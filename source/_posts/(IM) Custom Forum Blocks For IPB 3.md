@@ -1,6 +1,12 @@
 ---
 title: "(IM) Custom Forum Blocks For IPB 3"
 date: 2009-07-28 10:16:28
+categories: 
+- "PHP"
+- "פורומים"
+tags: 
+- "custom forum blocks"
+- "ipb 3"
 ---
 
 <p style="text-align: left; direction: ltr;"><strong>File Name</strong>: (IM) Custom Forum Blocks 1.3

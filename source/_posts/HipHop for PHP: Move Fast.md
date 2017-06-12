@@ -1,6 +1,14 @@
 ---
 title: "HipHop for PHP: Move Fast"
 date: 2010-02-03 10:27:34
+categories: 
+- "PHP"
+- "אופטימיזציה"
+tags: 
+- "C++"
+- "facebook"
+- "G++"
+- "PHP"
 ---
 
 <p style="text-align: left;direction: ltr;">One of the key values at Facebook is to move fast. For the past six years, we have been able to accomplish a lot thanks to rapid pace of development that PHP offers. As a programming language, PHP is simple. Simple to learn, simple to write, simple to read, and simple to debug. We are able to get new engineers ramped up at Facebook a lot faster with PHP than with other languages, which allows us to innovate faster.</p>

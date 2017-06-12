@@ -1,6 +1,34 @@
 ---
 title: "SVN יצירה, שימוש ובעיות נפוצות"
 date: 2010-08-20 21:14:11
+categories: 
+- "(x)html"
+- "apache"
+- "frameworks"
+- "ftp"
+- "linux"
+- "PHP"
+- "svn"
+- "yii"
+- "אבטחת מידע"
+- "אופטימיזציה"
+- "אינטגרציה"
+- "השוואות"
+- "חדשות"
+- "לינוקס"
+tags: 
+- "repository"
+- "subversion"
+- "subversion client"
+- "svn"
+- "svn checkout"
+- "svn client"
+- "svn create"
+- "svn repository"
+- "svn server"
+- "yii"
+- "בחינה"
+- "מערכת"
 ---
 
 ראשית, נושא ה SVN הוא מאוד רחב, ולכן לא ניתן יהיה לכסותו בפוסט אחד בלבד. בפוסט זה אני אעבור בקצרה על מספר דברים בנוגע ל SVN.

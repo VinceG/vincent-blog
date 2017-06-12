@@ -1,6 +1,19 @@
 ---
 title: "Yii Widget for the Aloha Editor"
 date: 2012-06-17 14:10:18
+categories: 
+- "frameworks"
+- "PHP"
+- "yii"
+tags: 
+- "aloha"
+- "aloha editor"
+- "editor"
+- "wysiwyg"
+- "wysiwyg editor"
+- "yii"
+- "yii aloha editor widget"
+- "yii widget"
 ---
 
 

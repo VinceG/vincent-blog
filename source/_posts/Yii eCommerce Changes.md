@@ -1,6 +1,17 @@
 ---
 title: "Yii eCommerce Changes"
 date: 2013-02-02 14:37:15
+categories: 
+- "mysql"
+- "PHP"
+- "php 5.3"
+- "yii"
+- "Yii E-Commerce"
+tags: 
+- "ecommerce"
+- "PHP"
+- "yii"
+- "yii ecommerce"
 ---
 
 Yii eCommerce is going along nicely. Since i've used a premium theme for the Admin side of the application i can't release this. I'll be working on converting all the views to Bootstrap designing it myself and dropping the Admin theme currently installed. Any designers willing to help by contributing pages designed with bootstrap that fit the admin part of the application please let me know.

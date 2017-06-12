@@ -1,6 +1,21 @@
 ---
 title: "PHP Console Progress Bar"
 date: 2013-03-23 21:48:51
+categories: 
+tags: 
+- "bar"
+- "console"
+- "console bar"
+- "console progress"
+- "console progress bar"
+- "PHP"
+- "php bar"
+- "php console"
+- "php console bar"
+- "php progress"
+- "php progress bar"
+- "progress"
+- "progress bar"
 ---
 
 <h1>PHP Console Progress Bar</h1>

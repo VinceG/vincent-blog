@@ -1,6 +1,11 @@
 ---
 title: "New Yii Extension - Gravatar Support"
 date: 2010-04-01 08:48:33
+categories: 
+- "frameworks"
+- "yii"
+- "חדשות"
+tags: 
 ---
 
 <div style="text-align:left;direction:ltr;">

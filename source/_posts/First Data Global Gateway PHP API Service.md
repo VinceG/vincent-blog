@@ -1,6 +1,21 @@
 ---
 title: "First Data Global Gateway PHP API Service"
 date: 2013-06-17 20:17:36
+categories: 
+- "api"
+- "PHP"
+tags: 
+- "api"
+- "api web service"
+- "first data"
+- "gateway"
+- "PHP"
+- "php api"
+- "php first data"
+- "servic3"
+- "service"
+- "web"
+- "web service"
 ---
 
 <a href="https://twitter.com/gabrielva" target="_blank">Follow @gabrielva</a>

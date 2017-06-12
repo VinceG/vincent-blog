@@ -1,6 +1,17 @@
 ---
 title: "Yii 1.1.3 שוחררה"
 date: 2010-07-07 11:21:06
+categories: 
+- "frameworks"
+- "PHP"
+- "yii"
+- "חדשות"
+tags: 
+- "1.1.3"
+- "framework"
+- "PHP"
+- "yii"
+- "yii 1.1.3"
 ---
 
 <div id="toprint">

@@ -1,6 +1,27 @@
 ---
 title: "Yii E-Commerce Platform – Language Manager"
 date: 2012-06-10 20:37:24
+categories: 
+- "frameworks"
+- "jquery"
+- "mysql"
+- "PHP"
+- "php 5.3"
+- "yii"
+- "Yii E-Commerce"
+tags: 
+- "commerce"
+- "php commerce"
+- "php ecommerce"
+- "yii cms"
+- "yii cms platform"
+- "yii commerce"
+- "yii crm"
+- "yii ecommerce"
+- "yii framework"
+- "yii language manager"
+- "yii manager"
+- "yii platform"
 ---
 
 Latest feature in the Yii E-Commerce platform is the Language Manager. This language manager is similar to the one i've used in Yii Framework CMS, With a few new features. With the current language manger you can:

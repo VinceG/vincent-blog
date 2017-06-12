@@ -1,6 +1,10 @@
 ---
 title: "Yii - Version 1.0.11 Released"
 date: 2009-12-17 12:54:28
+categories: 
+- "yii"
+- "חדשות"
+tags: 
 ---
 
 <div style="direction: ltr; text-align: left;">

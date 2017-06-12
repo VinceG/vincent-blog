@@ -1,6 +1,18 @@
 ---
 title: "Realtor.com PHP library to Search and View"
 date: 2014-09-18 21:03:11
+categories: 
+- "PHP"
+- "PHP 5.5"
+tags: 
+- "library"
+- "listings"
+- "mls"
+- "PHP"
+- "realtor"
+- "realtor.com"
+- "search"
+- "view"
 ---
 
 <article class="markdown-body entry-content">

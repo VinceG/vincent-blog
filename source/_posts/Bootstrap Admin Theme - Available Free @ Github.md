@@ -1,6 +1,18 @@
 ---
 title: "Bootstrap Admin Theme - Available Free @ Github"
 date: 2013-03-27 15:48:13
+categories: 
+tags: 
+- "admin"
+- "admin template"
+- "admin theme"
+- "bootstrap"
+- "bootstrap template"
+- "bootstrap theme"
+- "free template"
+- "free theme"
+- "template"
+- "theme"
 ---
 
 <h1>Bootstrap Admin Theme</h1>
