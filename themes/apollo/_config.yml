@@ -1,0 +1,20 @@
+menu:
+    Archive: /archives/
+    GitHub: https://github.com/vinceg
+    Rss: /atom.xml
+
+favicon: /favicon.png
+logo: /favicon.png
+
+# Comment
+# e.g disqus: seansun
+disqus: vadimsblog
+duoshuo:
+cloudTie:
+
+# Analytics
+# google-analytics:
+ga:
+
+# Copyright Infomation
+startyear: 2015

@@ -1,0 +1,6 @@
+[submodule "themes/hexo-theme-apollo"]
+	path = themes/apollo
+	url = git@github.com:pinggod/hexo-theme-apollo.git
+[submodule "themes/hacker"]
+	path = themes/hacker
+	url = git@github.com:CodeDaraW/Hacker.git

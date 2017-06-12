@@ -1,0 +1,24 @@
+---
+title: "Terms Of Use"
+date: 2009-03-29 22:20:03
+---
+
+<div style="text-align: left; direction: ltr;">
+<p style="text-align: left; direction: ltr;">The following details the Terms of Use of the website. All of the content and information on the website are only to be used in accordance with the Terms of Use, as follows. Browsing and any other use of the website is governed by these Terms of Use.</p>
+<p style="text-align: left;"><strong>Disclaimer of Liability</strong></p>
+<p style="text-align: left;">The information and contents that appear on the website are “as is,” without guarantee of any kind.</p>
+<p style="text-align: left;">The owners and/or the operators of the website are not responsible for any damage whatsoever caused from the use of information, contents, or links on this website. Users may not make any demands from or claims of any kind against the owners and/or operators of the site and/or against the website writers, editors, financiers.</p>
+<p style="text-align: left;">All use of the website, the website’s contents, or materials connected to the website or linked websites is solely the responsibility of the user.</p>
+<p style="text-align: left;">The website presents both quoted and original material, both in full and in part, from newspaper and magazine articles, spoken words, etc. All of these are brought in the interest of information and general service, and do not necessarily reflect the views of the website owners and/or operators. The copyrights of the materials on the website are written on the individual materials, and legally belong to the creators; to the website owners and/or operators and/or a third party; and may not be used for any purpose without express written permission from the responsible party.</p>
+<p style="text-align: left;">The information on the website is published in two languages. The website owners and/or operators have made every effort to maintain continuity between the two languages, but the English site is the most updated and accurate. Second to the Ensligh site is the Hebrew site. If no English or Hebrew information exists, the website owners and/or operators are not responsible for the content of the website in any other language that is not one of the two determining languages. The aforementioned does not add any sort of liability or responsibility on the part of the website owners and/or operators. Additionally, the website owners and/or operators do not bear responsibility or liability for any damage caused by mistakes in translation from or to any language.</p>
+<p style="text-align: left;"><strong>Links</strong></p>
+<p style="text-align: left;">This website contains links to other websites. They are provided for the convenience and interest of the reader only.</p>
+<p style="text-align: left;">Concerning links to external websites not owned by the website owners and/or operators: unless otherwise noted, there is no legal or commercial connection between the websites, or if such a connection is found to exist, it is not to be seen as the website owners and/or operators giving any rights or privileges to the third party site. Additionally, the website owners and/or operators have no control over the material presented on external websites.</p>
+<p style="text-align: left;">The website owners and/or operators have no responsibility for the content that appears on external websites.</p>
+<p style="text-align: left;">The website owners and/or operators do not give credence, permissions, or any sort of endorsement to any external website, any document or material included on them, actions by them, or products exhibited or sold on them.</p>
+<p style="text-align: left;">At the time of inclusion, all links to external sites are in service, and contain material appropriate to the goals of the website. It is possible, however, that since the time of inclusion there have been changes made to the linked website. If the user is of the opinion that there is no longer appropriate material on the external site or if the site is out of order, he/she is kindly requested to notify the webmaster.</p>
+<p style="text-align: left;"><strong>Ownerships of Rights</strong></p>
+<p style="text-align: left;">All ownership rights of the website; including creative design, codes, multimedia, graphics, and texts belong solely to the website owners and/or operators—therefore, any harm or damage caused by their use in any unauthorized way is in no way the responsibility of the website owners and/or operators.</p>
+<p style="text-align: left;">Permission to use the website is granted solely for individual use, and not for commercial use of any kind. Copying, distributing, public exhibition, or transmitting information contained on the website to any third party without express written permission from the website owners and/or operators is forbidden.</p>
+
+</div>
