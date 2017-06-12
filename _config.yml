@@ -106,3 +106,7 @@ deploy:
   type: git
   repo: git@github.com:VinceG/vadimg.com.git
   branch: master
+
+
+alias:
+  twitter-bootstrap-wizard-example: http://vinceg.github.io/twitter-bootstrap-wizard/
