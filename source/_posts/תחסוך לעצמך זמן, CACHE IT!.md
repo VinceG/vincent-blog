@@ -1,10 +1,10 @@
 ---
 title: "תחסוך לעצמך זמן, CACHE IT!"
 date: 2009-02-05 12:40:32
-categories: 
+categories:
 - "PHP"
 - "אופטימיזציה"
-tags: 
+tags:
 - "cache"
 - "זמן טעינה"
 - "חסכון"
@@ -34,11 +34,11 @@ Cache (ובעברית מטמון) הוא אוסף של מידע שמוצג/מב�
 
 תמונה א מציגה את התהליך של הצגת עמוד אינטרנט למשתמש. תחילה המשתמש מבקש את העמוד -&gt; בקשה נשלחת לאתר דרך האינטרנט -&gt; האתר מבצע את הדברים הדרושים (שאילתות, עיבוד וכדומה) -&gt; לאחר מכן מחזיר את הכל למשתמש שבקש את העמוד.
 
-<img class="aligncenter size-full wp-image-115" title="תמונה א" src="http://www.vadimg.co.il/wp-content/uploads/2009/02/php-caching-1.gif" alt="תמונה א" width="542" height="243" />
+<img class="aligncenter size-full wp-image-115" title="תמונה א" src="/assets/2009/02/php-caching-1.gif" alt="תמונה א" width="542" height="243" />
 
 תמונה ב מציגה את אותו התהליך רק עם מטמון, תחילה המשתמש מבקש את העמוד -&gt; הבקשה נשלחת לאינטרנט -&gt; האתר בודק קודם אם קיים מטמון לאותו עמוד והוא אכן עדכני ולא ישן -&gt; אם כן מחזיר את העמוד ומציג אותו למשתמש ללא שום פעולה נוספות -&gt; אם לא עושה את הפעולות הדרושות (שאילתות, עיבוד וכדומה) -&gt; שומר במטמון במידה וצריך -&gt; מחזיר את התוכן למשתמש שבקש את העמוד.
 
-<img class="aligncenter size-full wp-image-116" title="תמונה ב" src="http://www.vadimg.co.il/wp-content/uploads/2009/02/php-caching-2.gif" alt="תמונה ב" width="542" height="243" />
+<img class="aligncenter size-full wp-image-116" title="תמונה ב" src="/assets/2009/02/php-caching-2.gif" alt="תמונה ב" width="542" height="243" />
 
 <strong>דוגמא למערכת מטמון:</strong>
 

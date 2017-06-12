@@ -1,8 +1,8 @@
 ---
 title: "התקנה ושימוש ב XDEBUG"
 date: 2009-12-02 11:25:29
-categories: 
-tags: 
+categories:
+tags:
 - "debug"
 - "debugger"
 - "PHP"
@@ -76,12 +76,12 @@ phpinfo();
 ```
 
 יש לחפש אחר התמונה הבאה כפי שהיא מוצגת:
-<p style="text-align: center;"><a href="http://www.vadimg.com/wp-content/uploads/2009/12/phpinfo.jpg"><img class="aligncenter size-full wp-image-496" style="border: 0pt none;" title="phpinfo" src="http://www.vadimg.com/wp-content/uploads/2009/12/phpinfo.jpg" alt="phpinfo" width="606" height="83" /></a></p>
+<p style="text-align: center;"><a href="/assets/2009/12/phpinfo.jpg"><img class="aligncenter size-full wp-image-496" style="border: 0pt none;" title="phpinfo" src="/assets/2009/12/phpinfo.jpg" alt="phpinfo" width="606" height="83" /></a></p>
 
 יש לשים לב לשורה האחרונה במידה והיא קיימת הכל הותקן ואמור לעבוד.
 
 עכשיו בכל פעם שתוצג שגיאה של PHP כלשהי ה XDEBUG יכנס לפעולה ויציג שגיאה בפורמט הזה:
-<p style="text-align: center;"><a href="http://www.vadimg.com/wp-content/uploads/2009/12/Untitled.jpg"><img class="aligncenter size-full wp-image-497" style="border: 0pt none;" title="Untitled" src="http://www.vadimg.com/wp-content/uploads/2009/12/Untitled.jpg" alt="Untitled" width="737" height="147" /></a></p>
+<p style="text-align: center;"><a href="/assets/2009/12/Untitled.jpg"><img class="aligncenter size-full wp-image-497" style="border: 0pt none;" title="Untitled" src="/assets/2009/12/Untitled.jpg" alt="Untitled" width="737" height="147" /></a></p>
 
 ככה תקבלו יותר מידע לגבי השגיאה ואיך לטפל בה. כמובן זה רק חלק מאחד ממה שאפשר לעשות עם ה xdebug.
 

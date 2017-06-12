@@ -1,10 +1,10 @@
 ---
 title: "Application Installer Wizard Class"
 date: 2009-06-24 13:41:18
-categories: 
+categories:
 - "mysql"
 - "PHP"
-tags: 
+tags:
 - "application"
 - "class"
 - "installer"
@@ -32,11 +32,11 @@ A small adjusment i did is to also support Right-To-Left users and languages so 
 Comes with a nice look &amp; feel to the wizard and not just blank white page with text inputs. If anyone interested in extending it you are free to do so as long as you keep the copyright intact.
 
 Here are some examples:
-<p style="text-align: center;"><a href="http://www.vadimg.com/wp-content/uploads/2009/06/index.jpg"><img class="aligncenter size-thumbnail wp-image-308" style="border: 0pt none;" title="Index page" src="http://www.vadimg.com/wp-content/uploads/2009/06/index-150x150.jpg" alt="Index page" width="150" height="150" /></a></p>
+<p style="text-align: center;"><a href="/assets/2009/06/index.jpg"><img class="aligncenter size-thumbnail wp-image-308" style="border: 0pt none;" title="Index page" src="/assets/2009/06/index-150x150.jpg" alt="Index page" width="150" height="150" /></a></p>
 <p style="text-align: center;"></p>
-<p style="text-align: center;"><a href="http://www.vadimg.com/wp-content/uploads/2009/06/database.jpg"><img class="aligncenter size-thumbnail wp-image-302" style="border: 0pt none;" title="Database" src="http://www.vadimg.com/wp-content/uploads/2009/06/database-150x150.jpg" alt="Database" width="150" height="150" /></a><a href="http://www.vadimg.com/wp-content/uploads/2009/06/databasedone.jpg"><img class="aligncenter size-thumbnail wp-image-303" style="border: 0pt none;" title="Database Done" src="http://www.vadimg.com/wp-content/uploads/2009/06/databasedone-150x150.jpg" alt="Database Done" width="150" height="150" /></a><a href="http://www.vadimg.com/wp-content/uploads/2009/06/config.jpg"><img class="aligncenter size-thumbnail wp-image-300" style="border: 0pt none;" title="config" src="http://www.vadimg.com/wp-content/uploads/2009/06/config-150x150.jpg" alt="config" width="150" height="150" /></a><a href="http://www.vadimg.com/wp-content/uploads/2009/06/finish.jpg"><img class="aligncenter size-thumbnail wp-image-306" style="border: 0pt none;" title="finish" src="http://www.vadimg.com/wp-content/uploads/2009/06/finish-150x150.jpg" alt="finish" width="150" height="150" /></a></p>
+<p style="text-align: center;"><a href="/assets/2009/06/database.jpg"><img class="aligncenter size-thumbnail wp-image-302" style="border: 0pt none;" title="Database" src="/assets/2009/06/database-150x150.jpg" alt="Database" width="150" height="150" /></a><a href="/assets/2009/06/databasedone.jpg"><img class="aligncenter size-thumbnail wp-image-303" style="border: 0pt none;" title="Database Done" src="/assets/2009/06/databasedone-150x150.jpg" alt="Database Done" width="150" height="150" /></a><a href="/assets/2009/06/config.jpg"><img class="aligncenter size-thumbnail wp-image-300" style="border: 0pt none;" title="config" src="/assets/2009/06/config-150x150.jpg" alt="config" width="150" height="150" /></a><a href="/assets/2009/06/finish.jpg"><img class="aligncenter size-thumbnail wp-image-306" style="border: 0pt none;" title="finish" src="/assets/2009/06/finish-150x150.jpg" alt="finish" width="150" height="150" /></a></p>
 <p style="text-align: left;"></p>
-<p style="text-align: left;">Download: <a href="http://www.vadimg.com/wp-content/uploads/2009/06/classinstaller-v1.zip">classinstaller-v1</a></p>
+<p style="text-align: left;">Download: <a href="/assets/2009/06/classinstaller-v1.zip">classinstaller-v1</a></p>
 <p style="text-align: center;"></p>
 
 Vadim. :)</div>

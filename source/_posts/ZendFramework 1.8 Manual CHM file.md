@@ -1,11 +1,11 @@
 ---
 title: "ZendFramework 1.8 Manual CHM file"
 date: 2009-05-06 12:24:27
-categories: 
+categories:
 - "frameworks"
 - "Zend Framework"
 - "חדשות"
-tags: 
+tags:
 - "1.8"
 - "chm"
 - "en"
@@ -23,6 +23,6 @@ I am attaching the chm file and also a zip file consists of the code i made to g
 
 Hope this will be helpfull to someone. I know it does for me.
 
-<a href="http://www.vadimg.co.il/wp-content/uploads/2009/05/zf.zip">ZendFramework-CHM-HTML-Generation-PHP-Files</a>
+<a href="/assets/2009/05/zf.zip">ZendFramework-CHM-HTML-Generation-PHP-Files</a>
 
-<a href="http://www.vadimg.co.il/wp-content/uploads/2009/05/zendframework-18-manual-en.zip">zendframework-18-manual-en-chm-file</a></div>
+<a href="/assets/2009/05/zendframework-18-manual-en.zip">zendframework-18-manual-en-chm-file</a></div>

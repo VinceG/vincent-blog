@@ -1,10 +1,10 @@
 ---
 title: "Zend Framework - למה באמת כדי להשתמש בה?"
 date: 2009-02-19 12:06:09
-categories: 
+categories:
 - "frameworks"
 - "PHP"
-tags: 
+tags:
 - "framework"
 - "zend"
 - "zend framework"
@@ -24,7 +24,7 @@ tags:
 	<li>אין מבנה (סטרוקטורה) קבוע לאיך שהאפליקציה שלך צריכה להראות (ברוב ה frameworks הם מחייבים אותך להשתמש בשלושה תיקיות בהתאם ל MVC - model/view/controller) ככה שאתה בוחר איך המבנה של המערכת יהיה.</li>
 	<li>היא נעמדת מאחורי חברה אמינה ומבטיחה שבין היתר יוצרת את אותה שפה שאתם משתמשים.</li>
 	<li>צוות אמין ,מקצועי וגדול של מפתחים שעומדים מאחורי הפיתוח שלה.</li>
-	<li>הרבה <a href="http://www.vadimg.co.il/wp-content/uploads/2009/02/zend_components.jpg" target="_blank">מחלקות</a> שנכתבו כבר ומוכנות לשימוש קל פשוט ויעיל שמשתמשות בכל ה design patterns למיניהם.</li>
+	<li>הרבה <a href="/assets/2009/02/zend_components.jpg" target="_blank">מחלקות</a> שנכתבו כבר ומוכנות לשימוש קל פשוט ויעיל שמשתמשות בכל ה design patterns למיניהם.</li>
 	<li>מערכת לניהול מדריכים <strong>יעילה</strong>, בשפות שונות, דוקומנטציה ודוגמאות. (מה שחסר בהרבה מקומות בשאר ה frameworks)</li>
 	<li>תומכת במודל ה MVC, פלאגינים ועזרים נלווים אחרים.</li>
 </ul>

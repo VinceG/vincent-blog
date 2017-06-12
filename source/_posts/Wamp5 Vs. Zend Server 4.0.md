@@ -1,17 +1,17 @@
 ---
 title: "Wamp5 Vs. Zend Server 4.0"
 date: 2009-02-24 16:27:50
-categories: 
+categories:
 - "apache"
 - "השוואות"
-tags: 
+tags:
 - "benchmark"
 - "wamp5"
 - "zend server"
 - "השוואה"
 ---
 
-בפוסט הקודם דנו בסוגיה של <a href="http://www.vadimg.co.il/2009/02/24/zend-server-%d7%a1%d7%91%d7%99%d7%91%d7%aa-%d7%a4%d7%99%d7%aa%d7%95%d7%97-%d7%95%d7%a2%d7%91%d7%95%d7%93%d7%94-%d7%a2%d7%9d-php-%d7%91%d7%9b%d7%9e%d7%94-%d7%93%d7%a7%d7%95%d7%aa/" target="_blank">Zend Server</a> לעומת שאר שרתי ווב הקיימים כבר. אם תקראו את הפוסט הקודם תוכלו לראות <a href="http://www.vadimg.co.il/2009/02/24/zend-server-%d7%a1%d7%91%d7%99%d7%91%d7%aa-%d7%a4%d7%99%d7%aa%d7%95%d7%97-%d7%95%d7%a2%d7%91%d7%95%d7%93%d7%94-%d7%a2%d7%9d-php-%d7%91%d7%9b%d7%9e%d7%94-%d7%93%d7%a7%d7%95%d7%aa/#comment-1" target="_blank">ששחר</a> הגיב והציג את היתרונות בשימוש שלו לעומת אחרים, כמו כן גם נשאלה השאלה באמת מה יהיה יותר יעיל כשזה מגיע לשימוש באפליקציות ווב למיניהם על שרתי Zend לעומת אחרים. אני חושב שההשוואה הבאה שביצעתי יכולה לספק קצת פרטים לגבי זה.
+בפוסט הקודם דנו בסוגיה של <a href="/2009/02/zend-server-%d7%a1%d7%91%d7%99%d7%91%d7%aa-%d7%a4%d7%99%d7%aa%d7%95%d7%97-%d7%95%d7%a2%d7%91%d7%95%d7%93%d7%94-%d7%a2%d7%9d-php-%d7%91%d7%9b%d7%9e%d7%94-%d7%93%d7%a7%d7%95%d7%aa/">Zend Server</a> לעומת שאר שרתי ווב הקיימים כבר. אם תקראו את הפוסט הקודם תוכלו לראות <a href="/2009/02/zend-server-%d7%a1%d7%91%d7%99%d7%91%d7%aa-%d7%a4%d7%99%d7%aa%d7%95%d7%97-%d7%95%d7%a2%d7%91%d7%95%d7%93%d7%94-%d7%a2%d7%9d-php-%d7%91%d7%9b%d7%9e%d7%94-%d7%93%d7%a7%d7%95%d7%aa/#comment-1">ששחר</a> הגיב והציג את היתרונות בשימוש שלו לעומת אחרים, כמו כן גם נשאלה השאלה באמת מה יהיה יותר יעיל כשזה מגיע לשימוש באפליקציות ווב למיניהם על שרתי Zend לעומת אחרים. אני חושב שההשוואה הבאה שביצעתי יכולה לספק קצת פרטים לגבי זה.
 
 אני רק רוצה להבהיר שההשוואה נעשתה על ידי בלבד, איני מנהל שרתים מוסמך או אפילו מתקדם, אולי מה שאני ביצעתי יהיה שונה משאר ההשוואות שבוצעו על ידי משתמשים אחרים, לכן אם אתם תרצו לבצע את ההשוואה אתם מוזמנים.
 
@@ -67,8 +67,8 @@ Requests per second:    2.62 [#/sec] (mean)
 
 קישורים שכדי לעיין בהם:
 
-<a href="http://prematureoptimization.org/blog/archives/96" target="_blank">הבלוג של שחר</a>
+<a href="http://prematureoptimization.org/blog/archives/96">הבלוג של שחר</a>
 
-<a href="http://www.vadimg.co.il/wp-content/uploads/2009/02/zend.zip">zend</a>
+<a href="/assets/2009/02/zend.zip">zend</a>
 
-<a href="http://www.vadimg.co.il/wp-content/uploads/2009/02/wamp5.zip">wamp5</a>
+<a href="/assets/2009/02/wamp5.zip">wamp5</a>

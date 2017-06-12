@@ -1,10 +1,10 @@
 ---
 title: "(IM) Custom Navigation 1.0"
 date: 2009-08-05 11:23:04
-categories: 
+categories:
 - "PHP"
 - "פורומים"
-tags: 
+tags:
 - "custom navigation"
 - "invision power"
 - "ipb"
@@ -41,9 +41,9 @@ By default the modification will remove all the menus you had. So there is an xm
 
 In order to install them just import the XML file that came with this modification using the import tool in the custom navigation application.
 
-<a href="http://www.vadimg.com/wp-content/uploads/2009/08/post-1203-1249408513.jpg"><img class="aligncenter size-large wp-image-420" title="post-1203-1249408513" src="http://www.vadimg.com/wp-content/uploads/2009/08/post-1203-1249408513-1024x224.jpg" alt="post-1203-1249408513" width="1024" height="224" /></a>
+<a href="/assets/2009/08/post-1203-1249408513.jpg"><img class="aligncenter size-large wp-image-420" title="post-1203-1249408513" src="/assets/2009/08/post-1203-1249408513-1024x224.jpg" alt="post-1203-1249408513" width="1024" height="224" /></a>
 
-<a href="http://www.vadimg.com/wp-content/uploads/2009/08/post-1203-1249408504.jpg"><img class="aligncenter size-large wp-image-419" title="post-1203-1249408504" src="http://www.vadimg.com/wp-content/uploads/2009/08/post-1203-1249408504-1024x619.jpg" alt="post-1203-1249408504" width="1024" height="619" /></a>
+<a href="/assets/2009/08/post-1203-1249408504.jpg"><img class="aligncenter size-large wp-image-419" title="post-1203-1249408504" src="/assets/2009/08/post-1203-1249408504-1024x619.jpg" alt="post-1203-1249408504" width="1024" height="619" /></a>
 
 <strong>Disclaimer:</strong>
 

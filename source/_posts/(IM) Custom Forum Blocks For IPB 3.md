@@ -1,10 +1,10 @@
 ---
 title: "(IM) Custom Forum Blocks For IPB 3"
 date: 2009-07-28 10:16:28
-categories: 
+categories:
 - "PHP"
 - "פורומים"
-tags: 
+tags:
 - "custom forum blocks"
 - "ipb 3"
 ---
@@ -69,6 +69,6 @@ block (Top, Right, Left, Bottom), In what pages you would like <strong>And/Or</s
 [gallery link="file"]
 <p style="text-align: left;direction:ltr;"><strong>NEW!!! Screen Cast!!
 </strong>
-<a href="http://www.vadimg.co.il/previews/customforumblocks/index.html" target="_blank">Click Here</a>
+<a href="http://www.vadimg.com/previews/customforumblocks/index.html" target="_blank">Click Here</a>
 <p style="text-align: left;direction:ltr;">For more information please visit:</p>
 <p style="text-align: left;direction:ltr;"><a href="http://www.invisionmodding.com/index.php?showtopic=40101" target="_blank">InvisionModding.com</a></p>

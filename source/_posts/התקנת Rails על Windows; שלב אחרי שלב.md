@@ -1,8 +1,8 @@
 ---
 title: "התקנת Rails על Windows; שלב אחרי שלב"
 date: 2009-02-04 10:57:09
-categories: 
-tags: 
+categories:
+tags:
 - "Rails"
 - "RUBY"
 - "windows"
@@ -32,26 +32,26 @@ tags:
 
 1. בחרו באפשרות "Detailed Configuration" ולחצו על "Next"
 
-<img class="aligncenter size-full wp-image-70" title="p1" src="http://www.vadimg.co.il/wp-content/uploads/2009/02/p1.jpg" alt="p1" width="511" height="385" />
+<img class="aligncenter size-full wp-image-70" title="p1" src="/assets/2009/02/p1.jpg" alt="p1" width="511" height="385" />
 <p style="text-align: center;"></p>
 <p style="text-align: right;">2. בחרו באפשרות "Developer Machine" ולאחר מכן Next</p>
-<p style="text-align: right;"><img class="aligncenter size-full wp-image-71" title="p2" src="http://www.vadimg.co.il/wp-content/uploads/2009/02/p2.jpg" alt="p2" width="514" height="388" /></p>
+<p style="text-align: right;"><img class="aligncenter size-full wp-image-71" title="p2" src="/assets/2009/02/p2.jpg" alt="p2" width="514" height="388" /></p>
 <p style="text-align: right;">3. בחרו ב "Multifunctional Database"</p>
-<p style="text-align: right;"><img class="aligncenter size-full wp-image-72" title="p3" src="http://www.vadimg.co.il/wp-content/uploads/2009/02/p3.jpg" alt="p3" width="518" height="388" /></p>
+<p style="text-align: right;"><img class="aligncenter size-full wp-image-72" title="p3" src="/assets/2009/02/p3.jpg" alt="p3" width="518" height="388" /></p>
 <p style="text-align: right;">4. השאירו את המסך הבא כפי שהוא והמשיכו</p>
-<p style="text-align: right;"><img class="aligncenter size-full wp-image-73" title="p4" src="http://www.vadimg.co.il/wp-content/uploads/2009/02/p4.jpg" alt="p4" width="518" height="388" /></p>
+<p style="text-align: right;"><img class="aligncenter size-full wp-image-73" title="p4" src="/assets/2009/02/p4.jpg" alt="p4" width="518" height="388" /></p>
 <p style="text-align: right;">5. בחרו "Decision Support / OLAP"</p>
-<p style="text-align: right;"><img class="aligncenter size-full wp-image-74" title="p5" src="http://www.vadimg.co.il/wp-content/uploads/2009/02/p5.jpg" alt="p5" width="515" height="388" /></p>
+<p style="text-align: right;"><img class="aligncenter size-full wp-image-74" title="p5" src="/assets/2009/02/p5.jpg" alt="p5" width="515" height="388" /></p>
 <p style="text-align: right;">6. סמנו את "Enable TCP/IP Networking" ואת "Strict mode"</p>
-<p style="text-align: right;"><img class="aligncenter size-full wp-image-81" title="p61" src="http://www.vadimg.co.il/wp-content/uploads/2009/02/p61.jpg" alt="p61" width="504" height="379" /></p>
+<p style="text-align: right;"><img class="aligncenter size-full wp-image-81" title="p61" src="/assets/2009/02/p61.jpg" alt="p61" width="504" height="379" /></p>
 <p style="text-align: right;">7. בחרו "Best Support for Multilingualism"</p>
-<p style="text-align: right;"><img class="aligncenter size-full wp-image-75" title="p7" src="http://www.vadimg.co.il/wp-content/uploads/2009/02/p7.jpg" alt="p7" width="515" height="385" /></p>
+<p style="text-align: right;"><img class="aligncenter size-full wp-image-75" title="p7" src="/assets/2009/02/p7.jpg" alt="p7" width="515" height="385" /></p>
 <p style="text-align: right;">8. במסך הבא סמנו את שני האפשרויות</p>
-<p style="text-align: right;"><img class="aligncenter size-full wp-image-76" title="p8" src="http://www.vadimg.co.il/wp-content/uploads/2009/02/p8.jpg" alt="p8" width="518" height="388" /></p>
+<p style="text-align: right;"><img class="aligncenter size-full wp-image-76" title="p8" src="/assets/2009/02/p8.jpg" alt="p8" width="518" height="388" /></p>
 <p style="text-align: right;">9. במסך הבא הגדירו סיסמאת גישה למשתמש ROOT נא לא להשאיר את שדה הסיסמא ריק וסמנו רק את התיבה הראשונה.</p>
-<p style="text-align: right;"><img class="aligncenter size-full wp-image-77" title="p9" src="http://www.vadimg.co.il/wp-content/uploads/2009/02/p9.jpg" alt="p9" width="515" height="390" /></p>
+<p style="text-align: right;"><img class="aligncenter size-full wp-image-77" title="p9" src="/assets/2009/02/p9.jpg" alt="p9" width="515" height="390" /></p>
 <p style="text-align: right;">10. לחצו על  "Execute"</p>
-<p style="text-align: right;"><img class="aligncenter size-full wp-image-78" title="p10" src="http://www.vadimg.co.il/wp-content/uploads/2009/02/p10.jpg" alt="p10" width="516" height="389" /></p>
+<p style="text-align: right;"><img class="aligncenter size-full wp-image-78" title="p10" src="/assets/2009/02/p10.jpg" alt="p10" width="516" height="389" /></p>
 <p style="text-align: right;">11. לאחר זה מסיים את תהליך ההתקנה ישנם כמה דברים קטנים שצריך לעשות כדי לוודא את אבטחת המערכת שלכם. כדי שאף אחד לא יוכל להכנס למחשב שלכם ולהשתמש במסד הנתונים יש לבצע את הפעולה הבאה: יש לפתוח את קובץ my.ini עם עורך טקסט כלשהו, הקובץ נמצא בתיקיה c:\mysql (לרוב, יכול להשתנות בהתאם למיקום בו התקנתם את MYSQL קודם לכן). בקובץ my.ini חפשו את "[mysqld]" והוסיפו תחתיו את השורה הבאה:</p>
 <p style="text-align: right;"><strong>bind-address=127.0.0.1</strong></p>
 <p style="text-align: right;">כדי לוודא שההתקנה עברה בהצלחה ו MYSQL אכן מותקן יש לבדוק את זה על ידי התחל -&gt; הפעלה -&gt; cmd (באנגלית: Start -&gt; Run -&gt; cmd) ולהזין את הטקסט הבא בשורה:</p>
@@ -70,7 +70,7 @@ gem install rails --include-dependencies
 
 בסופו של דבר אתם תראו משהו דומה לזה:
 
-<img class="aligncenter size-full wp-image-79" title="p11" src="http://www.vadimg.co.il/wp-content/uploads/2009/02/p11.jpg" alt="p11" width="569" height="223" />
+<img class="aligncenter size-full wp-image-79" title="p11" src="/assets/2009/02/p11.jpg" alt="p11" width="569" height="223" />
 
 לאחר מכן תצטרכו ליצור תיקיה שתכיל את כל הפרוייקטים שלכם. אני פתחתי תיקיה בשם "projects" בתיקיה הראשית של Ruby שנמצאת אצלי ב "c:\ruby" . לאחר מכן יש לגשת לתיקיה הזאת בעזרת פקודת cd לדוגמא: "cd c:\ruby/projects" ברגע שאתם נמצאים בתיקיה הזאת תוכלו ליצור את הפרוייקט הראשון שלכם על ידי הרצת הפקודה הבאה:
 
@@ -78,7 +78,7 @@ gem install rails --include-dependencies
 
 פקודה זו תצור תיקיה בשם "demo" ותצור את כל הקבצים הנחוצים לפרוייקט הראשון שלכם ב rails. לאחר הרצת הפקודה אתם תראו משהו דומה לזה:
 
-<img class="aligncenter size-full wp-image-80" title="p12" src="http://www.vadimg.co.il/wp-content/uploads/2009/02/p12.jpg" alt="p12" width="473" height="639" />
+<img class="aligncenter size-full wp-image-80" title="p12" src="/assets/2009/02/p12.jpg" alt="p12" width="473" height="639" />
 
 לאחר מכן יש להריץ פקודה כדי בעצם "להתחיל" להריץ את הפרוייקט. אז לבסוף הזינו את הטקסט "cd demo" כדי לעבור לתיקיה demo שנמצאת בתוך c:\ruby\projects ואז להריץ את הפקודה:
 
@@ -86,7 +86,7 @@ gem install rails --include-dependencies
 
 פקודה זו תריץ את הפרוייקט שלכם ותריץ את ה deamon בשם "WEBrick" , שרק בעזרתו ניתן להריץ את הפרוייקטים במחשב. לאחר ההרצה כדי לבדוק אם הכל עובד יש לגשת לקישור הבא <a href="http://127.0.0.1:3000/">http://127.0.0.1:3000/</a> אם הכל הותקן כמו שצריך אתם תראו את החלון הבא:
 
-<img class="aligncenter size-full wp-image-82" title="p131" src="http://www.vadimg.co.il/wp-content/uploads/2009/02/p131.jpg" alt="p131" width="500" height="436" />
+<img class="aligncenter size-full wp-image-82" title="p131" src="/assets/2009/02/p131.jpg" alt="p131" width="500" height="436" />
 
 חלון זה אומר שהכל הותקן והפרוייקט שלכם מוכן לפיתוח.
 

@@ -1,10 +1,10 @@
 ---
 title: "אשף התקנת מערכות ב PHP"
 date: 2009-06-24 13:54:11
-categories: 
+categories:
 - "mysql"
 - "PHP"
-tags: 
+tags:
 - "PHP"
 - "wizard"
 - "אשף"
@@ -31,8 +31,8 @@ tags:
 
 דוגמאות:
 
-<a href="http://www.vadimg.co.il/wp-content/uploads/2009/06/index-he.jpg"><img class="aligncenter size-thumbnail wp-image-309" title="עמוד ראשי" src="http://www.vadimg.co.il/wp-content/uploads/2009/06/index-he-150x150.jpg" alt="עמוד ראשי" width="150" height="150" /></a><a href="http://www.vadimg.co.il/wp-content/uploads/2009/06/database-he.jpg"><img class="aligncenter size-thumbnail wp-image-305" title="עמוד פרטי מסד נתונים" src="http://www.vadimg.co.il/wp-content/uploads/2009/06/database-he-150x150.jpg" alt="עמוד פרטי מסד נתונים" width="150" height="150" /></a><a href="http://www.vadimg.co.il/wp-content/uploads/2009/06/databasedone-he.jpg"><img class="aligncenter size-thumbnail wp-image-304" title="עמוד הרצת שאילתות מסד נתונים" src="http://www.vadimg.co.il/wp-content/uploads/2009/06/databasedone-he-150x150.jpg" alt="עמוד הרצת שאילתות מסד נתונים" width="150" height="150" /></a><a href="http://www.vadimg.co.il/wp-content/uploads/2009/06/config-he.jpg"><img class="aligncenter size-thumbnail wp-image-301" title="פרטי קובץ ההגדרות" src="http://www.vadimg.co.il/wp-content/uploads/2009/06/config-he-150x150.jpg" alt="פרטי קובץ ההגדרות" width="150" height="150" /></a><a href="http://www.vadimg.co.il/wp-content/uploads/2009/06/finish-he.jpg"><img class="aligncenter size-thumbnail wp-image-307" title="סיום" src="http://www.vadimg.co.il/wp-content/uploads/2009/06/finish-he-150x150.jpg" alt="סיום" width="150" height="150" /></a>
+<a href="/assets/2009/06/index-he.jpg"><img class="aligncenter size-thumbnail wp-image-309" title="עמוד ראשי" src="/assets/2009/06/index-he-150x150.jpg" alt="עמוד ראשי" width="150" height="150" /></a><a href="/assets/2009/06/database-he.jpg"><img class="aligncenter size-thumbnail wp-image-305" title="עמוד פרטי מסד נתונים" src="/assets/2009/06/database-he-150x150.jpg" alt="עמוד פרטי מסד נתונים" width="150" height="150" /></a><a href="/assets/2009/06/databasedone-he.jpg"><img class="aligncenter size-thumbnail wp-image-304" title="עמוד הרצת שאילתות מסד נתונים" src="/assets/2009/06/databasedone-he-150x150.jpg" alt="עמוד הרצת שאילתות מסד נתונים" width="150" height="150" /></a><a href="/assets/2009/06/config-he.jpg"><img class="aligncenter size-thumbnail wp-image-301" title="פרטי קובץ ההגדרות" src="/assets/2009/06/config-he-150x150.jpg" alt="פרטי קובץ ההגדרות" width="150" height="150" /></a><a href="/assets/2009/06/finish-he.jpg"><img class="aligncenter size-thumbnail wp-image-307" title="סיום" src="/assets/2009/06/finish-he-150x150.jpg" alt="סיום" width="150" height="150" /></a>
 
-הורדה: <a href="http://www.vadimg.co.il/wp-content/uploads/2009/06/classinstaller-v1.zip">classinstaller-v1</a>
+הורדה: <a href="/assets/2009/06/classinstaller-v1.zip">classinstaller-v1</a>
 
 ואדים. :)

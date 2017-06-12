@@ -1,10 +1,10 @@
 ---
 title: "בדיקת זמן טעינה ב PHP"
 date: 2009-02-19 11:34:20
-categories: 
+categories:
 - "apache"
 - "PHP"
-tags: 
+tags:
 - "loading"
 - "PHP"
 - "tool"
@@ -20,4 +20,4 @@ index.php?max_clients=10&amp;urls_file=http://www.google.com
 
 לאחר ההרצה התקבלו פרטים שונים כמו זמן הטעינה הממוצע לכל בקשה, סך הכל בקשות וכן הלאה.
 
-<a href="http://www.vadimg.co.il/wp-content/uploads/2009/02/loader.rar">loader</a>
+<a href="/assets/2009/02/loader.rar">loader</a>
